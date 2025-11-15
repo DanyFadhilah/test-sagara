@@ -86,9 +86,9 @@ export default function Table({ data, type }: TableProps) {
         className="mb-4 p-2 border rounded w-1/5 bg-white"
       />
 
-      <table className="w-full bg-white rounded shadow">
+      <table className="w-full bg-white rounded-md shadow">
         <thead>
-          <tr className="bg-yellow-400 text-left text-white">
+          <tr className="bg-yellow-400 text-left text-white rounded-md">
 
             {type === "users" && (
               <>
@@ -181,7 +181,7 @@ export default function Table({ data, type }: TableProps) {
         <button
           disabled={page === 1}
           onClick={() => setPage(page - 1)}
-          className="px-4 py-2 bg-yellow-400 text-white cursor-pointer rounded disabled:opacity-50"
+          className="px-4 py-2 bg-yellow-400 hover:bg-yellow-500 text-white cursor-pointer rounded disabled:opacity-50"
         >
           Prev
         </button>
@@ -193,7 +193,7 @@ export default function Table({ data, type }: TableProps) {
         <button
           disabled={page === totalPages}
           onClick={() => setPage(page + 1)}
-          className="px-4 py-2 bg-yellow-400 text-white cursor-pointer rounded disabled:opacity-50"
+          className="px-4 py-2 bg-yellow-400 hover:bg-yellow-500 text-white cursor-pointer rounded disabled:opacity-50"
         >
           Next
         </button>

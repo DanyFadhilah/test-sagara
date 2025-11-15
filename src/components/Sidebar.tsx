@@ -2,7 +2,7 @@ import { NavLink } from "react-router-dom";
 
 export default function Sidebar() {
   return (
-    <aside className="w-60 bg-yellow-400 text-white h-screen p-5 fixed">
+    <aside className="w-60 bg-yellow-400 text-white h-screen p-5 fixed shadow-2xl">
       <h2 className="text-xl font-bold mb-6 text-black text-center">Sagara Tech</h2>
 
       <nav className="flex flex-col space-y-3">

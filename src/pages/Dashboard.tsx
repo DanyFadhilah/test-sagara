@@ -7,6 +7,7 @@ import Chart from "../components/Chart";
 import user from "../data/users.json"
 import transactions from "../data/transactions.json"
 import { useState } from "react";
+import { Link } from "react-router-dom";
 
 export default function Dashboard() {
     const totalUsers = user.length;
@@ -24,8 +25,8 @@ export default function Dashboard() {
             <h2 className="text-2xl font-bold mb-4">Dashboard</h2>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
-                <Card title="Total User" value={totalUsers} />
-                <Card title="Total Transaksi" value={totalTransactions} />
+                <Link to="/users"><Card title="Total User" value={totalUsers} /></Link>
+                <Link to="/transactions"><Card title="Total Transaksi" value={totalTransactions} /></Link>
                 <Card
                 title="Total Pendapatan"
                 value={`Rp ${totalRevenue.toLocaleString("id-ID")}`}
