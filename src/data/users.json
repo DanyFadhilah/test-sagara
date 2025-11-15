@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Admin",
+    "email": "admin@gmail.com",
+    "password": "123456",
+    "role": "admin",
+    "createdAt": "2024-11-14"
+  },
+  {
+    "id": 2,
+    "name": "Dany",
+    "email": "dany@gmail.com",
+    "password": "123456",
+    "role": "user",
+    "createdAt": "2024-11-14"
+  },
+  {
+    "id": 3,
+    "name": "Khairunnisa",
+    "email": "khairunnisa@gmail.com",
+    "password": "123456",
+    "role": "user",
+    "createdAt": "2024-11-14"
+  },
+  {
+    "id": 4,
+    "name": "Rizky",
+    "email": "rizky@gmail.com",
+    "password": "123456",
+    "role": "user",
+    "createdAt": "2024-11-15"
+  },
+  {
+    "id": 5,
+    "name": "Sinta",
+    "email": "sinta@gmail.com",
+    "password": "123456",
+    "role": "user",
+    "createdAt": "2024-11-15"
+  },
+  {
+    "id": 6,
+    "name": "Budi",
+    "email": "budi@gmail.com",
+    "password": "123456",
+    "role": "user",
+    "createdAt": "2024-11-16"
+  },
+  {
+    "id": 7,
+    "name": "Tina",
+    "email": "tina@gmail.com",
+    "password": "123456",
+    "role": "user",
+    "createdAt": "2024-11-16"
+  },
+  {
+    "id": 8,
+    "name": "Fajar",
+    "email": "fajar@gmail.com",
+    "password": "123456",
+    "role": "user",
+    "createdAt": "2024-11-17"
+  },
+  {
+    "id": 9,
+    "name": "Lina",
+    "email": "lina@gmail.com",
+    "password": "123456",
+    "role": "user",
+    "createdAt": "2024-11-17"
+  },
+  {
+    "id": 10,
+    "name": "Ahmad",
+    "email": "ahmad@gmail.com",
+    "password": "123456",
+    "role": "user",
+    "createdAt": "2024-11-18"
+  },
+  {
+    "id": 11,
+    "name": "Rina",
+    "email": "rina@gmail.com",
+    "password": "123456",
+    "role": "user",
+    "createdAt": "2024-11-18"
+  },
+  {
+    "id": 12,
+    "name": "Joko",
+    "email": "joko@gmail.com",
+    "password": "123456",
+    "role": "user",
+    "createdAt": "2024-11-19"
+  },
+  {
+    "id": 13,
+    "name": "Maya",
+    "email": "maya@gmail.com",
+    "password": "123456",
+    "role": "user",
+    "createdAt": "2024-11-19"
+  },
+  {
+    "id": 14,
+    "name": "Hendra",
+    "email": "hendra@gmail.com",
+    "password": "123456",
+    "role": "user",
+    "createdAt": "2024-11-20"
+  },
+  {
+    "id": 15,
+    "name": "Lia",
+    "email": "lia@gmail.com",
+    "password": "123456",
+    "role": "user",
+    "createdAt": "2024-11-20"
+  },
+  {
+    "id": 16,
+    "name": "Bambang",
+    "email": "bambang@gmail.com",
+    "password": "123456",
+    "role": "user",
+    "createdAt": "2024-11-21"
+  },
+  {
+    "id": 17,
+    "name": "Sari",
+    "email": "sari@gmail.com",
+    "password": "123456",
+    "role": "user",
+    "createdAt": "2024-11-21"
+  },
+  {
+    "id": 18,
+    "name": "Yusuf",
+    "email": "yusuf@gmail.com",
+    "password": "123456",
+    "role": "user",
+    "createdAt": "2024-11-22"
+  },
+  {
+    "id": 19,
+    "name": "Dina",
+    "email": "dina@gmail.com",
+    "password": "123456",
+    "role": "user",
+    "createdAt": "2024-11-22"
+  },
+  {
+    "id": 20,
+    "name": "Rudi",
+    "email": "rudi@gmail.com",
+    "password": "123456",
+    "role": "user",
+    "createdAt": "2024-11-23"
+  }
+]

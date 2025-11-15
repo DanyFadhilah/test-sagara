@@ -1,0 +1,225 @@
+[
+  {
+    "id": 1,
+    "user_id": 2,
+    "username": "Dany",
+    "amount": 115000,
+    "date": "2025-11-14",
+    "products": [
+      { "id": 1, "name": "Skintific Moisturizer", "price": 40000, "quantity": 2 },
+      { "id": 2, "name": "Skintific Sunscreen", "price": 35000, "quantity": 1 }
+    ]
+  },
+  {
+    "id": 2,
+    "user_id": 3,
+    "username": "Khairunnisa",
+    "amount": 75000,
+    "date": "2025-11-14",
+    "products": [
+      { "id": 1, "name": "Skintific Moisturizer", "price": 40000, "quantity": 1 },
+      { "id": 2, "name": "Skintific Sunscreen", "price": 35000, "quantity": 1 }
+    ]
+  },
+  {
+    "id": 3,
+    "user_id": 2,
+    "username": "Dany",
+    "amount": 150000,
+    "date": "2025-11-15",
+    "products": [
+      { "id": 1, "name": "Skintific Moisturizer", "price": 40000, "quantity": 3 },
+      { "id": 3, "name": "Skintific Serum", "price": 30000, "quantity": 1 }
+    ]
+  },
+  {
+    "id": 4,
+    "user_id": 3,
+    "username": "Khairunnisa",
+    "amount": 110000,
+    "date": "2025-11-15",
+    "products": [
+      { "id": 1, "name": "Skintific Moisturizer", "price": 40000, "quantity": 1 },
+      { "id": 2, "name": "Skintific Sunscreen", "price": 35000, "quantity": 2 }
+    ]
+  },
+  {
+    "id": 5,
+    "user_id": 2,
+    "username": "Dany",
+    "amount": 130000,
+    "date": "2025-11-16",
+    "products": [
+      { "id": 1, "name": "Skintific Moisturizer", "price": 40000, "quantity": 2 },
+      { "id": 3, "name": "Skintific Serum", "price": 30000, "quantity": 1 }
+    ]
+  },
+  {
+    "id": 6,
+    "user_id": 3,
+    "username": "Khairunnisa",
+    "amount": 95000,
+    "date": "2025-11-16",
+    "products": [
+      { "id": 1, "name": "Skintific Moisturizer", "price": 40000, "quantity": 1 },
+      { "id": 2, "name": "Skintific Sunscreen", "price": 35000, "quantity": 1 },
+      { "id": 3, "name": "Skintific Serum", "price": 30000, "quantity": 1 }
+    ]
+  },
+  {
+    "id": 7,
+    "user_id": 2,
+    "username": "Dany",
+    "amount": 180000,
+    "date": "2025-11-16",
+    "products": [
+      { "id": 1, "name": "Skintific Moisturizer", "price": 40000, "quantity": 4 },
+      { "id": 2, "name": "Skintific Sunscreen", "price": 35000, "quantity": 2 }
+    ]
+  },
+  {
+    "id": 8,
+    "user_id": 3,
+    "username": "Khairunnisa",
+    "amount": 70000,
+    "date": "2025-11-17",
+    "products": [
+      { "id": 1, "name": "Skintific Moisturizer", "price": 40000, "quantity": 1 },
+      { "id": 2, "name": "Skintific Sunscreen", "price": 35000, "quantity": 1 }
+    ]
+  },
+  {
+    "id": 9,
+    "user_id": 2,
+    "username": "Dany",
+    "amount": 185000,
+    "date": "2025-11-17",
+    "products": [
+      { "id": 1, "name": "Skintific Moisturizer", "price": 40000, "quantity": 3 },
+      { "id": 2, "name": "Skintific Sunscreen", "price": 35000, "quantity": 2 }
+    ]
+  },
+  {
+    "id": 10,
+    "user_id": 3,
+    "username": "Khairunnisa",
+    "amount": 145000,
+    "date": "2025-11-18",
+    "products": [
+      { "id": 1, "name": "Skintific Moisturizer", "price": 40000, "quantity": 2 },
+      { "id": 3, "name": "Skintific Serum", "price": 30000, "quantity": 1 }
+    ]
+  },
+  {
+    "id": 11,
+    "user_id": 2,
+    "username": "Dany",
+    "amount": 160000,
+    "date": "2025-11-18",
+    "products": [
+      { "id": 2, "name": "Skintific Sunscreen", "price": 35000, "quantity": 2 },
+      { "id": 3, "name": "Skintific Serum", "price": 30000, "quantity": 2 }
+    ]
+  },
+  {
+    "id": 12,
+    "user_id": 2,
+    "username": "Dany",
+    "amount": 95000,
+    "date": "2025-11-19",
+    "products": [
+      { "id": 3, "name": "Skintific Serum", "price": 30000, "quantity": 1 },
+      { "id": 2, "name": "Skintific Sunscreen", "price": 35000, "quantity": 1 }
+    ]
+  },
+  {
+    "id": 13,
+    "user_id": 3,
+    "username": "Khairunnisa",
+    "amount": 175000,
+    "date": "2025-11-19",
+    "products": [
+      { "id": 1, "name": "Skintific Moisturizer", "price": 40000, "quantity": 3 },
+      { "id": 3, "name": "Skintific Serum", "price": 30000, "quantity": 2 }
+    ]
+  },
+  {
+    "id": 14,
+    "user_id": 3,
+    "username": "Khairunnisa",
+    "amount": 105000,
+    "date": "2025-11-20",
+    "products": [
+      { "id": 1, "name": "Skintific Moisturizer", "price": 40000, "quantity": 1 },
+      { "id": 2, "name": "Skintific Sunscreen", "price": 35000, "quantity": 1 },
+      { "id": 3, "name": "Skintific Serum", "price": 30000, "quantity": 1 }
+    ]
+  },
+  {
+    "id": 15,
+    "user_id": 2,
+    "username": "Dany",
+    "amount": 125000,
+    "date": "2025-11-20",
+    "products": [
+      { "id": 1, "name": "Skintific Moisturizer", "price": 40000, "quantity": 2 },
+      { "id": 3, "name": "Skintific Serum", "price": 30000, "quantity": 1 }
+    ]
+  },
+  {
+    "id": 16,
+    "user_id": 3,
+    "username": "Khairunnisa",
+    "amount": 95000,
+    "date": "2025-11-21",
+    "products": [
+      { "id": 1, "name": "Skintific Moisturizer", "price": 40000, "quantity": 1 },
+      { "id": 2, "name": "Skintific Sunscreen", "price": 35000, "quantity": 1 },
+      { "id": 3, "name": "Skintific Serum", "price": 30000, "quantity": 1 }
+    ]
+  },
+  {
+    "id": 17,
+    "user_id": 2,
+    "username": "Dany",
+    "amount": 135000,
+    "date": "2025-11-21",
+    "products": [
+      { "id": 1, "name": "Skintific Moisturizer", "price": 40000, "quantity": 2 },
+      { "id": 2, "name": "Skintific Sunscreen", "price": 35000, "quantity": 1 }
+    ]
+  },
+  {
+    "id": 18,
+    "user_id": 3,
+    "username": "Khairunnisa",
+    "amount": 155000,
+    "date": "2025-11-21",
+    "products": [
+      { "id": 1, "name": "Skintific Moisturizer", "price": 40000, "quantity": 3 },
+      { "id": 2, "name": "Skintific Sunscreen", "price": 35000, "quantity": 2 }
+    ]
+  },
+  {
+    "id": 19,
+    "user_id": 2,
+    "username": "Dany",
+    "amount": 140000,
+    "date": "2025-11-22",
+    "products": [
+      { "id": 2, "name": "Skintific Sunscreen", "price": 35000, "quantity": 2 },
+      { "id": 3, "name": "Skintific Serum", "price": 30000, "quantity": 2 }
+    ]
+  },
+  {
+    "id": 20,
+    "user_id": 3,
+    "username": "Khairunnisa",
+    "amount": 90000,
+    "date": "2025-11-22",
+    "products": [
+      { "id": 1, "name": "Skintific Moisturizer", "price": 40000, "quantity": 1 },
+      { "id": 2, "name": "Skintific Sunscreen", "price": 35000, "quantity": 1 }
+    ]
+  }
+]
