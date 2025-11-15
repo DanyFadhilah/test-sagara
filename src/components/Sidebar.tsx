@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
 export default function Sidebar() {
   return (
@@ -6,15 +6,38 @@ export default function Sidebar() {
       <h2 className="text-xl font-bold mb-6 text-black text-center">Sagara Tech</h2>
 
       <nav className="flex flex-col space-y-3">
-        <Link to="/dashboard" className="bg-white rounded p-2 text-black font-semibold">
+        <NavLink
+          to="/dashboard"
+          className={({ isActive }) =>
+            `rounded p-2 font-semibold ${
+              isActive ? "bg-white text-black" : "text-black hover:bg-white hover:text-black"
+            }`
+          }
+        >
           Dashboard
-        </Link>
-        <Link to="/dashboard/users" className="hover:bg-white rounded px-2 py-1 hover:text-black hover:font-semibold">
+        </NavLink>
+
+        <NavLink
+          to="/users"
+          className={({ isActive }) =>
+            `rounded px-2 py-1 font-semibold ${
+              isActive ? "bg-white text-black" : "text-black hover:bg-white hover:text-black"
+            }`
+          }
+        >
           Users
-        </Link>
-        <Link to="/dashboard/reports" className="hover:bg-white rounded px-2 py-1 hover:text-black hover:font-semibold">
-          Reports
-        </Link>
+        </NavLink>
+
+        <NavLink
+          to="/transactions"
+          className={({ isActive }) =>
+            `rounded px-2 py-1 font-semibold ${
+              isActive ? "bg-white text-black" : "text-black hover:bg-white hover:text-black"
+            }`
+          }
+        >
+          Transactions
+        </NavLink>
       </nav>
     </aside>
   );

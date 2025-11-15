@@ -27,7 +27,7 @@ export default function Login() {
 
   return (
     <div className="min-h-screen flex items-center justify-center bg-gray-100">
-        <div className="bg-white w-1/4 p-6 items-center flex flex-col gap-5 rounded-2xl shadow-2xl">
+        <div className="bg-white w-2/3 sm:w-1/2 md:w-1/3 xl:w-1/3 p-6 items-center flex flex-col gap-5 rounded-2xl shadow-2xl">
             <h1 className="font-bold text-2xl">Login</h1>
             <input
                 className="border p-2 rounded-xl w-full shadow-2xs"
